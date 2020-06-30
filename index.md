@@ -10,7 +10,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Quote
 
- > At vero eos et accusam et justo duo dolores et ea rebum. 
-
+ > At vero eos et accusam et justo duo dolores et ea rebum. FOO!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lorem_Ipsum_Arial.svg/230px-Lorem_Ipsum_Arial.svg.png"/>
